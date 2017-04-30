@@ -1,5 +1,5 @@
 /** 轮播 */
-.Rotation { clear: both; height: 300px; width: 100%; }
+.Rotation { clear: both; height: 300px; width: 100%; background-color: #222222; }
 
 .silder {width: 100%;height:200px; overflow: hidden;text-align: center;margin: 0 auto;position:relative;float:left;}
 .silder .silder_list {height:200px; overflow:hidden;position: relative;padding: 0;}

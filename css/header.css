@@ -21,4 +21,5 @@ nav>ul>li { float: left; width: 80px; text-align: center; }
 nav>ul>li>a { clear: both; float: left; width: 80px; }
 nav>ul>li:hover ul { display: block; background-color: #6666; }
 nav>ul>li>ul { float: right; width: 100%; display: none; }
-nav>ul>li>ul>li { margin-left: -35px; }
+/*
+nav>ul>li>ul>li { margin-left: -35px; }*/
