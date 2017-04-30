@@ -1,0 +1,27 @@
+.news_left { float: left; left: 55%; }
+.news_campus { background-color: #6666; float: left; width: 39%; height: 200px; border: 1px solid #666; border-radius: 10px; }
+.new_title { float: left; width: 95%; margin-left: 10px; margin-top: 10px; }
+.new_title>span { float: left; color: blue; }
+.new_title>a { float: right; }
+.new_content { float: left; width: 95%; margin-left: 10px; margin-top: 10px; }
+.new_content>ul>li { float: left; clear: both; width: 100%; margin-top: 5px; }
+.new_content .li_content { float: left;}
+.new_content .li_time { float: right;}
+
+.news_corporate { background-color: #6666; float: left; width: 55%; height: 200px; margin-left: 10px; border: 1px solid #666; border-radius: 10px; }
+.recruitment { background-color: #6666; margin-top: 20px; clear: both; width: 95%; height: 200px; border: 1px solid #666; border-radius: 10px; }
+.news_right { float: left; width: 35%; height: 400px; background-color: #6666; }
+
+.enterprise { font-size: 20px; margin: 20px 0 20px 10px; }
+.news_right>ul { float: left; width: 100%; }
+.news_right>ul>li { float: left; clear: both; line-height: 20px; width: 100%; border-top: #ccc solid 1px; }
+.news_right>ul>li>a {
+    float: left; margin: 10px; width: 95%; }
+.news_right>ul>li>a>img { width: 80px; float: left; }
+.enterprise_info { float: left; height: 80px; margin-left: 20px; }
+
+.enterprise_name { height: 40px; line-height: 40px; }
+
+.creative_show { clear: both; height: 280px; width: 100%; background-color: #6666; border: 1px solid #666; border-radius: 10px; }
+
+footer p { text-align: center; }
