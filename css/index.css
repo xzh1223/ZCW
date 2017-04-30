@@ -25,3 +25,15 @@
 .creative_show { clear: both; height: 280px; width: 100%; background-color: #6666; border: 1px solid #666; border-radius: 10px; }
 
 footer p { text-align: center; }
+
+@media (max-width: 1200px) {
+    .news_left,.news_right { width: 100%; text-align: center; }
+    .news_left .news_campus { width: 40%; }
+    .news_left .news_corporate {width: 58%;}
+    .recruitment { width: 100%; }
+    .news_right { margin-top: 15px; }
+}
+@media (max-width: 640px) {
+    .news_left .news_campus { width: 100%;}
+    .news_left .news_corporate { width: 100%; margin: 15px 0 0 0; }
+}
