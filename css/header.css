@@ -14,7 +14,7 @@ a:hover { color: #669; text-decoration: none; }
 .logo>img { height: 50px; float: left; margin: 5px 0; }
 .logo>.zcw_name { font-size: 20px; float: left; margin: 0 15px; }
 
-.search { float: right; width: 300px; height: 60px; background-color: #000; }
+.search { float: right; width: 300px; height: 60px; }
 nav { float: right; line-height: 60px; height: 60px;}
 nav ul {float: right;}
 li { list-style: none; }
@@ -22,5 +22,11 @@ nav>ul>li { float: left; width: 80px; text-align: center; }
 nav>ul>li>a { clear: both; float: left; width: 80px; }
 nav>ul>li:hover ul { display: block; background-color: #6666; }
 nav>ul>li>ul { float: right; width: 100%; display: none; }
+
+.l { width: 80%; }
+.l>.ll { margin: 0 0 0 20px !important; }
+.l>.ll .lll { width: 60px !important; margin-top: 13px; }
+.l>.ll .llll { width: 100px; margin-top: 13px; }
+.l>.ll .lllll { width: auto; }
 /*
 nav>ul>li>ul>li { margin-left: -35px; }*/
