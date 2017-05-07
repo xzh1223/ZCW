@@ -1,0 +1,12 @@
+.login_parent { width: 100%; height: 350px; margin-top: 15%; text-align: center; }
+.login_tit { width: 100%; height: 50px; text-align: center; }
+.login_content { height: 100%; text-align: center; width: 700px; margin: 20px auto; }
+.login_main { width: 300px; height: 60%; margin: 0 auto; float: left; }
+form { width: 90%; height: 50px; margin: 0 auto; }
+.jssvc {  float: left; }
+form>a { float: right; }
+.account,.pass { width: 100%; height: 40px; margin: 5px auto; }
+.verification_code { width: 53%; height: 40px; margin: 5px auto;margin-left: -10px; }
+.code { padding: 10px; border: 1px #000 solid; }
+.btn_login { width: 100%; height: 40px; background-color: #ff0000; color: #fff; }
+.login_img { width: 300px; height: 210px;background-color: #C70B31; float: right; }
