@@ -1,0 +1,12 @@
+body { background-color: #eeeeee; }
+header { height: 60px; background-color: #cccccc; }
+.logo { width: 200px; height: 100%; float: left; margin-left: 50px; }
+.logo>img { height: 60px; padding: 2px; float: left; }
+.logo>p { float: left; margin-left: 20px; line-height: 60px; }
+.to_login { float: right; height: 60px; line-height: 60px; margin-right: 20px; }
+.register { width: 700px; height: auto; margin: 50px auto; background-color: white; border: solid #cccccc 1px; border-radius: 8px; }
+.register_tit { margin: 15px; border-bottom: solid #eeeeee 1px; }
+form { width: 300px; height: auto; margin: 50px auto; }
+form>p { display: none; }
+input { width: 300px; height: 40px; margin: 15px auto; }
+footer p { text-align: center; }
