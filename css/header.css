@@ -30,3 +30,12 @@ nav>ul>li>ul { float: right; width: 100%; display: none; }
 .l>.ll .lllll { width: auto; }
 /*
 nav>ul>li>ul>li { margin-left: -35px; }*/
+
+@media (max-width: 980px) {
+    .scanToDown,.logo { display: none; }
+    .login { width: 200px; }
+}
+
+@media (max-width: 630px) {
+    .search { display: none; }
+}
