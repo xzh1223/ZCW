@@ -25,7 +25,6 @@ th,tr { text-align: center; }
 .enterprise_info { float: left; height: 80px; margin-left: 20px; }
 
 .enterprise_name { height: 40px; line-height: 40px; }
-
 .creative_show { clear: both; height: 280px; width: 100%; background-color: #6666; /*border: 1px solid #666;*/ border-radius: 5px; }
 
 footer p { text-align: center; }
