@@ -1,0 +1,66 @@
+.current_position { width: 100%; height: 40px; line-height: 40px; clear: both;}
+.content { width: 90%; height: 410px; margin: 20px auto; }
+.content>ul>li { border-bottom: solid #eeeeee 1px; float: left; width: 100%; height: 40px; line-height: 40px; }
+
+.content>ul {
+    height: 100%;
+}
+
+.tag {
+    width: 10%;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+}
+.time {
+    width: 20%;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+}
+.title {
+    width: 35%;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+}
+
+.author {
+    width: 15%;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+}
+
+.number {
+    width: 20%;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+}
+
+.content>ul>li>a { float: left; width: 100%; }
+.page_select { margin: 0 auto; float: right; }
+footer { margin-top: 20px; border-top: solid 1px #cccccc; clear: both; }
+footer p { text-align: center; }
+
+.banner_nav {
+    width: auto;
+    height:50px;
+}
+
+.bn {
+    width: 33%;
+    height:50px;
+    float: left;
+    border: solid 1px #eeeeee;
+    line-height: 50px;
+}
+
+.banner_image {
+    width: 100%;
+    height: 100px;
+    background: #666666;
+    clear: both;
+    margin-top: 10px;
+}
